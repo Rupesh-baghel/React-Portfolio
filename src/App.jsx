@@ -10,7 +10,7 @@ function App() {
 
     <>
 
-     {/* <h1 className="bg-red-600 text-3xl">jai shree ram </h1> */}
+   
         <Home/> 
 
        <Project  />
